@@ -26,7 +26,7 @@ def extract_from_json_as_np_array(key, json_data):
     return np.array(data_as_array)
 
 
-STUDENTNUMMER = "1234567" # TODO: aanpassen aan je eigen studentnummer
+STUDENTNUMMER = "1004288" # TODO: aanpassen aan je eigen studentnummer
 
 assert STUDENTNUMMER != "1234567", "Verander 1234567 in je eigen studentnummer"
 
